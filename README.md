@@ -12,4 +12,4 @@ Pentru simularea unei conversatii dintre doi utilizatori, am deschis doua browse
 
 ![image](https://user-images.githubusercontent.com/74377027/212199533-c0baa7e8-d6dd-4b56-ae56-643ceb26a3e0.png)
 
-![image](https://user-images.githubusercontent.com/74377027/212199596-4b61375c-8711-4b8e-83ca-d5e09e652a65.png)
+![image](https://user-images.githubusercontent.com/74377027/212199980-553503b9-9955-42be-84bb-bf0fd23d6269.png)
